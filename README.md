@@ -1,5 +1,5 @@
 # ESX-item-generator
-Generate Optionalneeds and Basicneeds related Items
+Generate/create Optionalneeds and Basicneeds related Items
 
 Since a former development friend named Stoned0001 also on this plattform started leaking my scripts, I decided to upload them by myself
 
