@@ -6,6 +6,9 @@ game 'gta5'
 
 lua54 'yes'
 
+client scripts {
+    client.lua
+}
 shared_scripts {
     'config.lua',
 }
