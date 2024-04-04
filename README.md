@@ -8,3 +8,5 @@ You can stack effects, define a notification and the used prop. The Animation wi
 Example for usage:
 
 beer = {Art= {"drunk", "hunger", "thirst"},menge = 20000, notification= 'Du hast dir ein frisch gezapftes Bier gegönnt', prop_name = "lrz_tennets"};
+
+Replace the events listed in client.lua in the according script
